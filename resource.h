@@ -1,0 +1,121 @@
+//{{NO_DEPENDENCIES}}
+// Microsoft Visual C++ generated include file.
+// Used by resource.rc
+//
+#define IDB_ADD_NORMAL                  102
+#define IDB_ARROW_NORMAL                103
+#define IDB_COS_NORMAL                  104
+#define IDB_COSH_NORMAL                 105
+#define IDB_DIV_NORMAL                  106
+#define IDB_DOT_NORMAL                  107
+#define IDB_E_NORMAL                    108
+#define IDB_EQUAL_NORMAL                109
+#define IDB_L_BRACKET_NORMAL            110
+#define IDB_LN_NORMAL                   111
+#define IDB_MUL_NORMAL                  113
+#define IDB_NUM0_NORMAL                 114
+#define IDB_NUM1_NORMAL                 115
+#define IDB_NUM2_NORMAL                 116
+#define IDB_NUM3_NORMAL                 117
+#define IDB_NUM4_NORMAL                 118
+#define IDB_NUM5_NORMAL                 119
+#define IDB_NUM6_NORMAL                 120
+#define IDB_NUM7_NORMAL                 121
+#define IDB_NUM8_NORMAL                 122
+#define IDB_NUM9_NORMAL                 123
+#define IDB_PI_NORMAL                   124
+#define IDB_R_BRACKET_NORMAL            125
+#define IDB_SIN_NORMAL                  126
+#define IDB_SINH_NORMAL                 127
+#define IDB_SQRT_NORMAL                 128
+#define IDB_SQRT3_NORMAL                129
+#define IDB_SUB_NORMAL                  130
+#define IDB_TAN_NORMAL                  131
+#define IDB_TANH_NORMAL                 132
+#define IDB_POW2_NORMAL                 133
+#define IDB_POW3_NORMAL                 134
+#define IDB_ADD_MOUSE_ON                136
+#define IDB_ARROW_MOUSE_ON              137
+#define IDB_COS_MOUSE_ON                138
+#define IDB_COSH_MOUSE_ON               139
+#define IDB_DIV_MOUSE_ON                140
+#define IDB_DOT_MOUSE_ON                141
+#define IDB_E_MOUSE_ON                  142
+#define IDB_EQUAL_MOUSE_ON              143
+#define IDB_L_BRACKET_MOUSE_ON          144
+#define IDB_LN_MOUSE_ON                 145
+#define IDB_MUL_MOUSE_ON                147
+#define IDB_NUM0_MOUSE_ON               148
+#define IDB_NUM1_MOUSE_ON               149
+#define IDB_NUM2_MOUSE_ON               150
+#define IDB_NUM3_MOUSE_ON               151
+#define IDB_NUM4_MOUSE_ON               152
+#define IDB_NUM5_MOUSE_ON               153
+#define IDB_NUM6_MOUSE_ON               154
+#define IDB_NUM7_MOUSE_ON               155
+#define IDB_NUM8_MOUSE_ON               156
+#define IDB_NUM9_MOUSE_ON               157
+#define IDB_PI_MOUSE_ON                 158
+#define IDB_R_BRACKET_MOUSE_ON          159
+#define IDB_SIN_MOUSE_ON                160
+#define IDB_SINH_MOUSE_ON               161
+#define IDB_SQRT_MOUSE_ON               162
+#define IDB_SQRT3_MOUSE_ON              163
+#define IDB_SUB_MOUSE_ON                164
+#define IDB_TAN_MOUSE_ON                165
+#define IDB_TANH_MOUSE_ON               166
+#define IDB_POW2_MOUSE_ON               167
+#define IDB_POW3_MOUSE_ON               168
+#define IDB_ADD_MOUSE_DOWN              169
+#define IDB_ARROW_MOUSE_DOWN            170
+#define IDB_COSH_MOUSE_DOWN             171
+#define IDB_DIV_MOUSE_DOWN              172
+#define IDB_DOT_MOUSE_DOWN              173
+#define IDB_E_MOUSE_DOWN                175
+#define IDB_EQUAL_MOUSE_DOWN            176
+#define IDB_L_BRACKET_MOUSE_DOWN        177
+#define IDB_LN_MOUSE_DOWN               178
+#define IDB_MUL_MOUSE_DOWN              180
+#define IDB_NUM0_MOUSE_DOWN             181
+#define IDB_NUM1_MOUSE_DOWN             182
+#define IDB_NUM2_MOUSE_DOWN             183
+#define IDB_NUM3_MOUSE_DOWN             184
+#define IDB_NUM4_MOUSE_DOWN             185
+#define IDB_NUM5_MOUSE_DOWN             186
+#define IDB_NUM6_MOUSE_DOWN             187
+#define IDB_NUM7_MOUSE_DOWN             188
+#define IDB_NUM8_MOUSE_DOWN             189
+#define IDB_NUM9_MOUSE_DOWN             190
+#define IDB_PI_MOUSE_DOWN               191
+#define IDB_R_BRACKET_MOUSE_DOWN        192
+#define IDB_SIN_MOUSE_DOWN              193
+#define IDB_SINH_MOUSE_DOWN             194
+#define IDB_SQRT_MOUSE_DOWN             195
+#define IDB_SQRT3_MOUSE_DOWN            196
+#define IDB_SUB_MOUSE_DOWN              197
+#define IDB_TAN_MOUSE_DOWN              198
+#define IDB_TANH_MOUSE_DOWN             199
+#define IDB_POW2_MOUSE_DOWN             200
+#define IDB_POW3_MOUSE_DOWN             201
+#define IDB_COS_MOUSE_DOWN              202
+#define IDB_LG_NORMAL                   203
+#define IDB_LG_MOUSE_DOWN               204
+#define IDB_LG_MOUSE_ON                 205
+#define IDI_CALC                        211
+#define IDB_CLEAR_NORMAL                212
+#define IDB_CLEAR_MOUSE_ON              213
+#define IDB_CLEAR_MOUSE_DOWN            216
+#define IDB_POW_NORMAL                  218
+#define IDB_POW_MOUSE_ON                219
+#define IDB_POW_MOUSE_DOWN              220
+
+// Next default values for new objects
+// 
+#ifdef APSTUDIO_INVOKED
+#ifndef APSTUDIO_READONLY_SYMBOLS
+#define _APS_NEXT_RESOURCE_VALUE        221
+#define _APS_NEXT_COMMAND_VALUE         40001
+#define _APS_NEXT_CONTROL_VALUE         1001
+#define _APS_NEXT_SYMED_VALUE           101
+#endif
+#endif

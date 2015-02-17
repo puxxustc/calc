@@ -1,0 +1,180 @@
+// Microsoft Visual C++ generated resource script.
+//
+#include "resource.h"
+
+#define APSTUDIO_READONLY_SYMBOLS
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 2 resource.
+//
+#include "afxres.h"
+
+/////////////////////////////////////////////////////////////////////////////
+#undef APSTUDIO_READONLY_SYMBOLS
+
+/////////////////////////////////////////////////////////////////////////////
+// 中文(简体，中国) resources
+
+#if !defined(AFX_RESOURCE_DLL) || defined(AFX_TARG_CHS)
+LANGUAGE LANG_CHINESE, SUBLANG_CHINESE_SIMPLIFIED
+
+#ifdef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// TEXTINCLUDE
+//
+
+1 TEXTINCLUDE 
+BEGIN
+    "resource.h\0"
+END
+
+2 TEXTINCLUDE 
+BEGIN
+    "#include ""afxres.h""\r\n"
+    "\0"
+END
+
+3 TEXTINCLUDE 
+BEGIN
+    "\r\n"
+    "\0"
+END
+
+#endif    // APSTUDIO_INVOKED
+
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Bitmap
+//
+
+IDB_ADD_NORMAL          BITMAP                  "img/normal/add.bmp"
+IDB_ARROW_NORMAL        BITMAP                  "img/normal/arrow.bmp"
+IDB_COS_NORMAL          BITMAP                  "img/normal/cos.bmp"
+IDB_COSH_NORMAL         BITMAP                  "img/normal/cosh.bmp"
+IDB_DIV_NORMAL          BITMAP                  "img/normal/div.bmp"
+IDB_DOT_NORMAL          BITMAP                  "img/normal/dot.bmp"
+IDB_E_NORMAL            BITMAP                  "img/normal/e.bmp"
+IDB_EQUAL_NORMAL        BITMAP                  "img/normal/equal.bmp"
+IDB_L_BRACKET_NORMAL    BITMAP                  "img/normal/left_bracket.bmp"
+IDB_LN_NORMAL           BITMAP                  "img/normal/ln.bmp"
+IDB_MUL_NORMAL          BITMAP                  "img/normal/mul.bmp"
+IDB_NUM0_NORMAL         BITMAP                  "img/normal/num_0.bmp"
+IDB_NUM1_NORMAL         BITMAP                  "img/normal/num_1.bmp"
+IDB_NUM2_NORMAL         BITMAP                  "img/normal/num_2.bmp"
+IDB_NUM3_NORMAL         BITMAP                  "img/normal/num_3.bmp"
+IDB_NUM4_NORMAL         BITMAP                  "img/normal/num_4.bmp"
+IDB_NUM5_NORMAL         BITMAP                  "img/normal/num_5.bmp"
+IDB_NUM6_NORMAL         BITMAP                  "img/normal/num_6.bmp"
+IDB_NUM7_NORMAL         BITMAP                  "img/normal/num_7.bmp"
+IDB_NUM8_NORMAL         BITMAP                  "img/normal/num_8.bmp"
+IDB_NUM9_NORMAL         BITMAP                  "img/normal/num_9.bmp"
+IDB_PI_NORMAL           BITMAP                  "img/normal/pi.bmp"
+IDB_R_BRACKET_NORMAL    BITMAP                  "img/normal/right_bracket.bmp"
+IDB_SIN_NORMAL          BITMAP                  "img/normal/sin.bmp"
+IDB_SINH_NORMAL         BITMAP                  "img/normal/sinh.bmp"
+IDB_SQRT_NORMAL         BITMAP                  "img/normal/sqrt.bmp"
+IDB_SQRT3_NORMAL        BITMAP                  "img/normal/sqrt3.bmp"
+IDB_SUB_NORMAL          BITMAP                  "img/normal/sub.bmp"
+IDB_TAN_NORMAL          BITMAP                  "img/normal/tan.bmp"
+IDB_TANH_NORMAL         BITMAP                  "img/normal/tanh.bmp"
+IDB_POW2_NORMAL         BITMAP                  "img/normal/x^2.bmp"
+IDB_POW3_NORMAL         BITMAP                  "img/normal/x^3.bmp"
+IDB_ADD_MOUSE_ON        BITMAP                  "img/mouse_on/add.bmp"
+IDB_ARROW_MOUSE_ON      BITMAP                  "img/mouse_on/arrow.bmp"
+IDB_COS_MOUSE_ON        BITMAP                  "img/mouse_on/cos.bmp"
+IDB_COSH_MOUSE_ON       BITMAP                  "img/mouse_on/cosh.bmp"
+IDB_DIV_MOUSE_ON        BITMAP                  "img/mouse_on/div.bmp"
+IDB_DOT_MOUSE_ON        BITMAP                  "img/mouse_on/dot.bmp"
+IDB_E_MOUSE_ON          BITMAP                  "img/mouse_on/e.bmp"
+IDB_EQUAL_MOUSE_ON      BITMAP                  "img/mouse_on/equal.bmp"
+IDB_L_BRACKET_MOUSE_ON  BITMAP                  "img/mouse_on/left_bracket.bmp"
+IDB_LN_MOUSE_ON         BITMAP                  "img/mouse_on/ln.bmp"
+IDB_MUL_MOUSE_ON        BITMAP                  "img/mouse_on/mul.bmp"
+IDB_NUM0_MOUSE_ON       BITMAP                  "img/mouse_on/num_0.bmp"
+IDB_NUM1_MOUSE_ON       BITMAP                  "img/mouse_on/num_1.bmp"
+IDB_NUM2_MOUSE_ON       BITMAP                  "img/mouse_on/num_2.bmp"
+IDB_NUM3_MOUSE_ON       BITMAP                  "img/mouse_on/num_3.bmp"
+IDB_NUM4_MOUSE_ON       BITMAP                  "img/mouse_on/num_4.bmp"
+IDB_NUM5_MOUSE_ON       BITMAP                  "img/mouse_on/num_5.bmp"
+IDB_NUM6_MOUSE_ON       BITMAP                  "img/mouse_on/num_6.bmp"
+IDB_NUM7_MOUSE_ON       BITMAP                  "img/mouse_on/num_7.bmp"
+IDB_NUM8_MOUSE_ON       BITMAP                  "img/mouse_on/num_8.bmp"
+IDB_NUM9_MOUSE_ON       BITMAP                  "img/mouse_on/num_9.bmp"
+IDB_PI_MOUSE_ON         BITMAP                  "img/mouse_on/pi.bmp"
+IDB_R_BRACKET_MOUSE_ON  BITMAP                  "img/mouse_on/right_bracket.bmp"
+IDB_SIN_MOUSE_ON        BITMAP                  "img/mouse_on/sin.bmp"
+IDB_SINH_MOUSE_ON       BITMAP                  "img/mouse_on/sinh.bmp"
+IDB_SQRT_MOUSE_ON       BITMAP                  "img/mouse_on/sqrt.bmp"
+IDB_SQRT3_MOUSE_ON      BITMAP                  "img/mouse_on/sqrt3.bmp"
+IDB_SUB_MOUSE_ON        BITMAP                  "img/mouse_on/sub.bmp"
+IDB_TAN_MOUSE_ON        BITMAP                  "img/mouse_on/tan.bmp"
+IDB_TANH_MOUSE_ON       BITMAP                  "img/mouse_on/tanh.bmp"
+IDB_POW2_MOUSE_ON       BITMAP                  "img/mouse_on/x^2.bmp"
+IDB_POW3_MOUSE_ON       BITMAP                  "img/mouse_on/x^3.bmp"
+IDB_ADD_MOUSE_DOWN      BITMAP                  "img/mouse_down/add.bmp"
+IDB_ARROW_MOUSE_DOWN    BITMAP                  "img/mouse_down/arrow.bmp"
+IDB_COSH_MOUSE_DOWN     BITMAP                  "img/mouse_down/cosh.bmp"
+IDB_DIV_MOUSE_DOWN      BITMAP                  "img/mouse_down/div.bmp"
+IDB_DOT_MOUSE_DOWN      BITMAP                  "img/mouse_down/dot.bmp"
+IDB_E_MOUSE_DOWN        BITMAP                  "img/mouse_down/e.bmp"
+IDB_EQUAL_MOUSE_DOWN    BITMAP                  "img/mouse_down/equal.bmp"
+IDB_L_BRACKET_MOUSE_DOWN BITMAP                  "img/mouse_down/left_bracket.bmp"
+IDB_LN_MOUSE_DOWN       BITMAP                  "img/mouse_down/ln.bmp"
+IDB_MUL_MOUSE_DOWN      BITMAP                  "img/mouse_down/mul.bmp"
+IDB_NUM0_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_0.bmp"
+IDB_NUM1_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_1.bmp"
+IDB_NUM2_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_2.bmp"
+IDB_NUM3_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_3.bmp"
+IDB_NUM4_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_4.bmp"
+IDB_NUM5_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_5.bmp"
+IDB_NUM6_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_6.bmp"
+IDB_NUM7_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_7.bmp"
+IDB_NUM8_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_8.bmp"
+IDB_NUM9_MOUSE_DOWN     BITMAP                  "img/mouse_down/num_9.bmp"
+IDB_PI_MOUSE_DOWN       BITMAP                  "img/mouse_down/pi.bmp"
+IDB_R_BRACKET_MOUSE_DOWN BITMAP                  "img/mouse_down/right_bracket.bmp"
+IDB_SIN_MOUSE_DOWN      BITMAP                  "img/mouse_down/sin.bmp"
+IDB_SINH_MOUSE_DOWN     BITMAP                  "img/mouse_down/sinh.bmp"
+IDB_SQRT_MOUSE_DOWN     BITMAP                  "img/mouse_down/sqrt.bmp"
+IDB_SQRT3_MOUSE_DOWN    BITMAP                  "img/mouse_down/sqrt3.bmp"
+IDB_SUB_MOUSE_DOWN      BITMAP                  "img/mouse_down/sub.bmp"
+IDB_TAN_MOUSE_DOWN      BITMAP                  "img/mouse_down/tan.bmp"
+IDB_TANH_MOUSE_DOWN     BITMAP                  "img/mouse_down/tanh.bmp"
+IDB_POW2_MOUSE_DOWN     BITMAP                  "img/mouse_down/x^2.bmp"
+IDB_POW3_MOUSE_DOWN     BITMAP                  "img/mouse_down/x^3.bmp"
+IDB_COS_MOUSE_DOWN      BITMAP                  "img/mouse_down/cos.bmp"
+IDB_LG_NORMAL           BITMAP                  "img/normal/lg.bmp"
+IDB_LG_MOUSE_DOWN       BITMAP                  "img/mouse_down/lg.bmp"
+IDB_LG_MOUSE_ON         BITMAP                  "img/mouse_on/lg.bmp"
+IDB_CLEAR_NORMAL        BITMAP                  "img/normal/clear.bmp"
+IDB_CLEAR_MOUSE_ON      BITMAP                  "img/mouse_on/clear.bmp"
+IDB_CLEAR_MOUSE_DOWN    BITMAP                  "img/mouse_down/clear.bmp"
+IDB_POW_NORMAL          BITMAP                  "img/normal/pow.bmp"
+IDB_POW_MOUSE_ON        BITMAP                  "img/mouse_on/pow.bmp"
+IDB_POW_MOUSE_DOWN      BITMAP                  "img/mouse_down/pow.bmp"
+
+/////////////////////////////////////////////////////////////////////////////
+//
+// Icon
+//
+
+// Icon with lowest ID value placed first to ensure application icon
+// remains consistent on all systems.
+IDI_CALC                ICON                    "img/calc.ico"
+#endif    // 中文(简体，中国) resources
+/////////////////////////////////////////////////////////////////////////////
+
+
+
+#ifndef APSTUDIO_INVOKED
+/////////////////////////////////////////////////////////////////////////////
+//
+// Generated from the TEXTINCLUDE 3 resource.
+//
+
+
+/////////////////////////////////////////////////////////////////////////////
+#endif    // not APSTUDIO_INVOKED
+
