@@ -10,6 +10,10 @@ Build with MinGW:
 make
 ```
 
+## Screenshot ##
+
+![](https://raw.githubusercontent.com/XiaoxiaoPu/calc/master/screenshot.png)
+
 ## License ##
 
 Copyright (C) 2014 - 2015, Xiaoxiao <i@xiaoxiao.im>
