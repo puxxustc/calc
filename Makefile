@@ -1,5 +1,5 @@
 # Makefile for calc
-# Author: Xiaoxiao Pu <i@xiaoxiao.im>
+# Author: Xiaoxiao Pu <i@pxx.io>
 
 CC = i686-w64-mingw32-gcc
 LD = i686-w64-mingw32-gcc
